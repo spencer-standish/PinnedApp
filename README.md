@@ -8,14 +8,14 @@ Pinned is an innovative iOS app designed to help users visually track and list t
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1.png)
-*Caption for Screenshot 1.*
+![Screenshot 1](./Assets.xcassets/pinned_logo.imageset/pinned_login.png?raw=true)
+*Login or Sign up.*
 
-![Screenshot 2](link_to_screenshot_2.png)
-*Caption for Screenshot 2.*
+![Screenshot 2](./Assets.xcassets/pinned_logo.imageset/pinned_add.png?raw=true)
+*Create and add a list of countries travelled.*
 
-![Screenshot 3](link_to_screenshot_3.png)
-*Caption for Screenshot 3.*
+![Screenshot 3](./Assets.xcassets/pinned_logo.imageset/pinned_visited.png?raw=true)
+*Visualize a map of travelled countries and view stats*
 
 ## Installation
 
@@ -56,7 +56,6 @@ This project is licensed under the [MIT License](link_to_license.md).
 
 ## Acknowledgments
 
-- Thanks to [Third-Party Library](link_to_library) for their amazing support.
 - Special shoutout to our contributors.
 
 ## Contact
