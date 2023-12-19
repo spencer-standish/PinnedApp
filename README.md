@@ -1,6 +1,6 @@
 # Pinned App
 
-![Pinned App Logo](https://github.com/spencer-standish/PinnedApp/Assets.xcassets/pinned_logo.imageset/pinned_logo.png)
+![Pinned App Logo](./Assets.xcassets/pinned_logo.imageset/pinned_logo.png)
 
 ## Overview
 
